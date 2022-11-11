@@ -28,3 +28,4 @@ Unsubscribe a channel from a feed:
 `^unsubscribe <channel> <RSS URL>`
 
 Feeds are saved in `rss/`, so you can delete them manually if you want to (make sure to restart the bot if you do it this way!).
+"# AnnouncmentBot" 
